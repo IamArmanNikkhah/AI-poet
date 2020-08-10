@@ -6,10 +6,10 @@ I taught a neural network on a small dataset of Khayyam's poems. This neural net
 
 A number of created poems:
 
-Life keeps oozing day
+    Life keeps oozing day
 
             mone, or prepared we loving year
 
-shrinks as was--the nothing the fire of life kiss and field,
+    shrinks as was--the nothing the fire of life kiss and field,
 
             nor whence it to the tavern caught kindle to that
