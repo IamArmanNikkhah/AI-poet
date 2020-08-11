@@ -13,3 +13,6 @@ A number of created poems:
     shrinks as was--the nothing the fire of life kiss and field,
 
             nor whence it to the tavern caught kindle to that
+
+
+![Omar Khayyam](https://upload.wikimedia.org/wikipedia/commons/d/da/Omar_Khayyam2.JPG)
