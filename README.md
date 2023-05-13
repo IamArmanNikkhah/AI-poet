@@ -2,7 +2,7 @@
 A neural network that is able to compose poetry
 
 
-I trained a neural network on a small dataset of Khayyam's poems. This neural network is able to generate a new character for each input character. It is noteworthy that despite the small amount of data, this recursive network has been able to recognize the pattern between words well, and in some cases, the rhyme and poetic style have been preserved. I am curious to know if we train this network on  a larger dataset of poems,what will happen?
+In this project, I proposed a novel approach to generate new poems in the style of Khayyam using a fine-tuned recurrent neural network (RNN) on a small dataset of Khayyam's poetry. The RNN effectively learns the intricate structure, rhyme, and poetic style, producing coherent and stylistically consistent poems. This technique demonstrates the potential of neural networks in natural language processing tasks, particularly for generating creative content in the domain of poetry.
 
 A number of created poems:
 
